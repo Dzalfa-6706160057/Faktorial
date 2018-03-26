@@ -24,6 +24,7 @@ public class BelahKetupat {
             }
             l+=2;
             System.out.println("");
+            System.out.println("0");
         }
         l -= 4;
         for(int i=(n-1);i>=1;i--){
